@@ -143,3 +143,11 @@ footer {
 b{
 	font-weight: bold;
 }
+.proj{
+	text-decoration: none;
+	color: #000000;
+}
+.proj:hover {
+	color: #EA8C00;
+	text-decoration: none;
+}
